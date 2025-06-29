@@ -133,7 +133,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="moon1.jpg" />
+    <Image Include="moon2.jpg" />
     <Image Include="planet.jpg" />
+    <Image Include="sun.jpg" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stb_image.h" />

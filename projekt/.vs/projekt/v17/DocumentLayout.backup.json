@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Miko\u0142aj\\Desktop\\grafika\\projekt\\projekt\\",
+  "WorkspaceRootPath": "C:\\Users\\Miko\u0142aj\\Desktop\\grafika\\projekt\\Projekt_Grafika\\projekt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35ACC46F-2FB4-4E5B-B3DF-554F0A6067E7}|projekt\\projekt.vcxproj|C:\\Users\\Miko\u0142aj\\Desktop\\grafika\\projekt\\projekt\\projekt\\\u0179r\u00F3d\u0142o.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{35ACC46F-2FB4-4E5B-B3DF-554F0A6067E7}|projekt\\projekt.vcxproj|C:\\Users\\Miko\u0142aj\\Desktop\\grafika\\projekt\\Projekt_Grafika\\projekt\\projekt\\\u0179r\u00F3d\u0142o.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{35ACC46F-2FB4-4E5B-B3DF-554F0A6067E7}|projekt\\projekt.vcxproj|solutionrelative:projekt\\\u0179r\u00F3d\u0142o.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u0179r\u00F3d\u0142o.cpp",
-              "DocumentMoniker": "C:\\Users\\Miko\u0142aj\\Desktop\\grafika\\projekt\\projekt\\projekt\\\u0179r\u00F3d\u0142o.cpp",
+              "DocumentMoniker": "C:\\Users\\Miko\u0142aj\\Desktop\\grafika\\projekt\\Projekt_Grafika\\projekt\\projekt\\\u0179r\u00F3d\u0142o.cpp",
               "RelativeDocumentMoniker": "projekt\\\u0179r\u00F3d\u0142o.cpp",
-              "ToolTip": "C:\\Users\\Miko\u0142aj\\Desktop\\grafika\\projekt\\projekt\\projekt\\\u0179r\u00F3d\u0142o.cpp",
-              "RelativeToolTip": "projekt\\\u0179r\u00F3d\u0142o.cpp",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAQwF4AAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Miko\u0142aj\\Desktop\\grafika\\projekt\\Projekt_Grafika\\projekt\\projekt\\\u0179r\u00F3d\u0142o.cpp*",
+              "RelativeToolTip": "projekt\\\u0179r\u00F3d\u0142o.cpp*",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-29T13:34:09.379Z",
               "EditorCaption": ""

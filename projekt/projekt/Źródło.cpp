@@ -92,7 +92,7 @@ void drawOrbit(float radius) {
 void display() {
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
     glLoadIdentity();
-    gluLookAt(0.0, 5.0, 30.0,   // Zwiêkszono dystans kamery
+    gluLookAt(0.0, 5.0, 30.0,   
         0.0, 0.0, 0.0,
         0.0, 1.0, 0.0);
 
@@ -110,9 +110,9 @@ void display() {
         glEnable(GL_LIGHT1);
         glPushMatrix();
         glRotatef(anglePlanet, 0, 1, 0);
-        glTranslatef(12.0f, 0.0f, 0.0f);  // dalej od s³oñca
+        glTranslatef(12.0f, 0.0f, 0.0f);  
         glRotatef(angleMoon2, 0, 1, 0);
-        glTranslatef(4.0f, 0.0f, 0.0f);   // dalej od planety
+        glTranslatef(4.0f, 0.0f, 0.0f);   
         glLightfv(GL_LIGHT1, GL_POSITION, lightPos1);
         glPopMatrix();
     }
@@ -126,17 +126,15 @@ void display() {
     drawTexturedSphere(texSun, 3.0f);
     glPopMatrix();
 
-    drawOrbit(12.0f); // nowa orbita planety
-
+    drawOrbit(12.0f);
     // Planeta
     glPushMatrix();
     glRotatef(anglePlanet, 0, 1, 0);
     glTranslatef(12.0f, 0.0f, 0.0f);
     glRotatef(selfRotatePlanet, 0, 1, 0);
     drawTexturedSphere(texPlanet, 1.5f);
-
-    drawOrbit(3.0f); // ksiê¿yc 1
-    drawOrbit(4.0f); // ksiê¿yc 2
+    
+     
 
     // Ksiê¿yc 1
     glPushMatrix();
@@ -145,6 +143,7 @@ void display() {
     glRotatef(selfRotateMoon1, 0, 1, 0);
     drawTexturedSphere(texMoon1, 0.5f);
     glPopMatrix();
+    drawOrbit(3.0f);
 
     // Ksiê¿yc 2
     glPushMatrix();
@@ -153,6 +152,7 @@ void display() {
     glRotatef(selfRotateMoon2, 0, 1, 0);
     drawTexturedSphere(texMoon2, 0.3f);
     glPopMatrix();
+    drawOrbit(4.0f);
 
     glPopMatrix();
 

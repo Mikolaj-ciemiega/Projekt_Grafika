@@ -26,6 +26,15 @@
     <Image Include="planet.jpg">
       <Filter>Pliki źródłowe</Filter>
     </Image>
+    <Image Include="sun.jpg">
+      <Filter>Pliki źródłowe</Filter>
+    </Image>
+    <Image Include="moon1.jpg">
+      <Filter>Pliki źródłowe</Filter>
+    </Image>
+    <Image Include="moon2.jpg">
+      <Filter>Pliki źródłowe</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stb_image.h">
