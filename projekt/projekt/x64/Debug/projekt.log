@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\Mikołaj\Desktop\grafika\projekt\projekt\projekt\Źródło.cpp(84,21): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  projekt.vcxproj -> C:\Users\Mikołaj\Desktop\grafika\projekt\projekt\x64\Debug\projekt.exe
